@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>For Them member's</title>
+        
+        <!-- Favicon-->
+        <link rel="icon" type="assets/image/x-icon" href="assets/RNF/Logosg.jpeg" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Shadows Into Light:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="assets/css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="index">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg bg-secondary text-caveat fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand" href="index.php">FOR THEM MEMBER'S</a>
+                <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-black rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#inicio de sesion">Inicio de sesion</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#conocenos">Conocenos</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contacto">Contacto</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="registro.php">Registro</a></li> <!--Aqui se adjunta el link del form de registro-->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead bg-primary text-black text-center">
+            <div class="container d-flex align-items-center flex-column">
+                <!-- Masthead Avatar Image-->
+                <img class="masthead-avatar mb-10" src="assets/RNF/Logosgf.png" alt="..." />
+                <!-- Masthead Heading-->
+                <h1 class="masthead-heading  text-uppercase mb-0">FOR THEM MEMBER'S</h1>
+                <br>
+                <!-- Masthead Subheading-->
+                <p class="masthead-subheading font-weight-light mb-0">Mejorando vidas</p>
+            </div>
+        </header>
+        <!-- Inicio de sesion Section-->
+        <section class="page-section inicio de sesion" id="inicio de sesion">
+            <div class="container">
+                <!-- Inicio de sesion Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Inicio de sesión</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fa-solid fa-address-card"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Inicio de sesion Grid Items
+                <div class="row justify-content-center">
+                    <Inicio de sesion Item 1
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-black"></div>
+                            </div>
+                            <img class="img-fluid" src="assets/RNF/Ingreso medico.png" alt="..." />
+                        </div>
+                    </div> -->
+                    <!-- Inicio de sesion Item 2-->
+                    <div class="container d-flex align-items-center flex-column">
+                     <div class="col-md-6 col-lg-6 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-black"></div>
+                            </div>
+                            <img class="img-fluid" src="assets/RNF/Usuario.webp" alt="..." />
+                        </div>
+                    </div>
+            </div>
+        </section>
+        <!-- Conocenos Section-->
+        <section class="page-section bg-primary text-black mb-0" id="conocenos">
+            <div class="container">
+                <!-- Conocenos Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-black">Conocenos</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fa-solid fa-book"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- conocenos Section Content-->
+                <div class="row">
+                    <div class="text-center mt-4"><p class="lead">For them member's es un aplicativo creado con la misión de facilitar y agilizar los inconvenientes presentados con base a la administración y manejo de tiempos al momento de realizar la atención veterinaria, este brindará servicios de notificación por medio de correo para citas médicas y/o diagnósticos del veterinario para dar una atención oportuna a las mascotas, ya que el medico podrá tener un prediagnóstico solo sabiendo algunos síntomas de la mascota, el medico notificara por medio de correo electrónico al propietario de la mascota, indicando atención inmediata o asignando una fecha y hora para la cita de su mascota.</p></div>
+                    <div class="text-center mt-4"><p class="lead">Te invitamos a descargar y conocer la informacion de nuestro aplicativo, el cual se funda para ayudar con amor.</p></div>
+                </div>
+                <!-- Conocenos Section Button-->
+                <div class="text-center mt-4">
+                    <a class="btn btn-xl btn-outline-light" href=""><!--Link de pdf o drive donde expongamos el proyecto mas a fondo-->
+                        <i class="fas fa-download me-2"></i>
+                        Presiona!
+                    </a>
+                </div>
+            </div>
+        </section>
+        <!-- Contact Section-->
+        <section class="page-section" id="contacto">
+            <div class="container">
+                <!-- Contact Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contacto</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fa-solid fa-phone-volume"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Contact Section Form-->
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 col-xl-7">
+                        <!-- * * * * * * * * * * * * * * *-->
+                        <!-- * * SB Forms Contact Form * *-->
+                        <!-- * * * * * * * * * * * * * * *-->
+                        <!-- This form is pre-integrated with SB Forms.-->
+                        <!-- To make this form functional, sign up at-->
+                        <!-- https://startbootstrap.com/solution/contact-forms-->
+                        <!-- to get an API token!-->
+                        <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                            <!-- Name input-->
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
+                                <label for="name">Nombre completo</label>
+                                <div class="invalid-feedback" data-sb-feedback="name:required">Campo requerido.</div>
+                            </div>
+                            <!-- Campo de autenticacion de email-->
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
+                                <label for="email">Correo electronico</label>
+                                <div class="invalid-feedback" data-sb-feedback="email:required">Campo requerido.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">Correo electronico erroneo.</div>
+                            </div> 
+                            <!-- Campo de autenticacion de telefono-->
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
+                                <label for="phone">Telefono</label>
+                                <div class="invalid-feedback" data-sb-feedback="phone:required">Campo requerido.</div>
+                            </div>
+                            <!-- Campo de autenticacion de mensaje-->
+                            <div class="form-floating mb-3">
+                                <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
+                                <label for="message">Deja tu mensaje</label>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">Se debe diligenciar este campo.</div>
+                            </div>
+                            <!-- Campo de autenticacion para subir mensaje-->
+                            <!---->
+                            <!-- This is what your users will see when the form-->
+                            <!-- has successfully submitted-->
+                            <div class="d-none" id="submitSuccessMessage">
+                                <div class="text-center mb-3">
+                                    <div class="fw-bolder">Su mensaje fue enviado con éxito!</div>
+                                    Lo invitamos a que se registre en nuestra pagina para mejor navegabilidad! 
+                                    <br />
+                                    <a href="registro.php">Registrate!!!</a>
+                                </div>
+                            </div>
+                            <!-- Submit error message-->
+                            <!---->
+                            <!-- This is what your users will see when there is-->
+                            <!-- an error submitting the form-->
+                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error al enviar</div></div>
+                            <!-- Submit Button-->
+                            <button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit">Enviar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer text-center">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Location-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Direccion</h4>
+                        <p class="lead mb-0">
+                            Cll 40 sur # 34-56
+                            <br />
+                            Medellin, Colombia
+                        </p>
+                    </div>
+                    <!-- Footer Social Icons-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">SIGUENOS!!!</h4>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
+                    </div>
+                    <!-- Footer About Text-->
+                    <div class="col-lg-4">
+                        <h4 class="text-uppercase mb-4">SOBRE NOSOTROS</h4>
+                        <p class="lead mb-0">
+                            Somos un equipo medico, eficiente, honesto y etico.
+                            <a href=""></a>
+                
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Copyright Section-->
+        <div class="copyright py-4 text-center text-black">
+            <div class="container"><small>Copyright &copy; Sena 2023</small></div>
+        </div>
+        <!-- Inicio de sesiones Modals-->
+        <!-- Inicio de sesion Modal 1-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Inicio de sesion Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Inicio de sesion</h2>
+                                    <!-- Icono Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-user-doctor"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!--- Imagen inicio de sesion medico-->
+                                    <img class="img-fluid rounded mb-5" src="assets/RNF/iniciomed.jpg" alt="..." />
+                                    <!-- Boton inicio de sesion medico - Text-->
+                                    <p class="mb-4">Porque nuestro compromiso es dar una atencion oportuna y de calidad!</p>
+                                    <a class="btn btn-primary" href="login.php">
+                                        <i class="fa-solid fa-stethoscope"></i>
+                                        Ingresar
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- usuario Modal 2-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- usuario Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Inicio de sesion usuario</h2>
+                                    <!-- Icono usuario Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-paw"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- usuario Imagen-->
+                                    <img class="img-fluid rounded mb-5" src="assets/RNF/Usuario2.png" alt="..."   />
+                                    <!-- ususario Texto-->
+                                    <p class="mb-4">Hago uso del servicio mas exclusivo, oportuno y rapido para la atencion integral de mi mascota.</p>
+                                    <a class="btn btn-primary" href="login.php"> <!-- Aqui pegan el form de usuario-->
+                                        <i class="fa-solid fa-paw"></i>
+                                        Ingresar
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <!-- Bootstrap core JS-->  
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+                <!-- Core theme JS-->
+                <script src="js/scripts.js"></script>
+                <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+                <!-- * *                               SB Forms JS                               * *-->
+                <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+                <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+                <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
+
+
